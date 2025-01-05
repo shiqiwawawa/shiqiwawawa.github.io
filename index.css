@@ -1,0 +1,12 @@
+{
+	margin:0;
+	padding:0;
+}
+.nav {
+/* 把导航条的宽度设置成浏览器的宽度就可以了 */
+	width:100%；
+	height:50px；
+	background-color:hotpink;
+	text-align:center;
+	line-height:50px;
+}
